@@ -3,6 +3,9 @@ body{
     text-align: center;
     display: flex;
     flex-direction: column;
+	background:url(https://i.pinimg.com/564x/af/80/59/af805952c2deed17a3360ac3ec0bb7d4.jpg);
+    background-position: center;
+    background-size: cover;
 }
 #opp-choice{
     width:90%;
