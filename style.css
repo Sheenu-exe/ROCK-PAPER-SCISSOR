@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+#opp-choice{
+    width:90%;
+    height:30vh;
+    margin-bottom:10px;
+}
+#your-choice{
+    width:90%;
+    height:30vh;
+
+}
+#choices{
+    width:90%;
+    margin:0 auto;
+    height:10vh;
+}
+#choices img{
+    width:30%;
+    height:auto;
+    -webkit-animation: scale-in-tr 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	        animation: scale-in-tr 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    
+}
